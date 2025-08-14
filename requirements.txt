@@ -1,6 +1,4 @@
-langchain
-openai
 streamlit
-pypdf2
-faiss-cpu
-tiktoken
+langchain==0.1.16
+langchain-community==0.0.19
+openai
