@@ -1,0 +1,9 @@
+
+Q: What is the company's refund policy?
+A: We offer a full refund within 30 days of purchase.
+
+Q: How can users contact support?
+A: Users can email support@company.com for any help.
+
+Q: Do you offer discounts for students?
+A: Yes, a 20% discount is available for students with valid ID.
